@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CIO_Mockito.iml" filepath="$PROJECT_DIR$/CIO_Mockito.iml" />
+      <module fileurl="file://F:\Java_Android\And_Dev\Play_Apps\Demo_Apps\CIO_Mockito\Mockito.iml" filepath="F:\Java_Android\And_Dev\Play_Apps\Demo_Apps\CIO_Mockito\Mockito.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
